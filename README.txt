@@ -4,7 +4,7 @@ This is a simple Readme file..
 
 Heading Text
 
-This is biund to cause trouble
+Just Something going on
 
 
 
