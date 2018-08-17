@@ -3,8 +3,7 @@ Demo Project README
 This is a simple Readme file..
 
 Heading Text
-
-Just Something going on
+Added this new line on Friday Aug 17
 
 
 
